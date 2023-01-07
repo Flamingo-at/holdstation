@@ -123,7 +123,7 @@ if __name__ == '__main__':
 
     print("Bot Holdstation @flamingoat\n")
 
-    ref = input('Ref code: ')
+    ref = input('Referral link: ')
     delay = int(input('Delay(sec): '))
     threads = int(input('Threads: '))
 
